@@ -11,8 +11,8 @@ Fishing App is a web application that allows users to record their own fishing j
 ![Screenshot of the Fishing App manage trips dashboard view on desktop that shows fishery information and catch data for the user as well as buttons and inputs that allows the user to manage that data](/screenshots/fa-managetrips-desktop.PNG?raw=true "Fishing App manage trips dashboard view on desktop")
 
 <div float="left">
-    <img src="screenshots/fa-managetrips-mobile.PNG" />
-    <img src="screenshots/fa-signup.PNG" />
+    <img src="screenshots/fa-managetrips-mobile.PNG" width="300"/>
+    <img src="screenshots/fa-signup.PNG" width="300"/>
 </div>
 
 ## Objectives
