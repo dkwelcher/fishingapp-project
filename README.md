@@ -24,16 +24,6 @@ Fishing App is a web application that allows users to record their own fishing j
 - Research deployment technologies & strategies
 - Deploy application to the Web
 
-## Market Review - Competition
-
-The following is a quick summary of the extensive research & documentation of competitor services in the market.
-
-- Most of the popular fishing apps share the same features, such as logbook, weather & fishing forcasts, and hotspots
-- Some have a prominent social feature
-- Most provide free-tier & subscriber-tier access to their applications ranging from $4.99 to $12.99 monthly. Some offer annual subscriptions that reduce overall cost compared to monthly subscription
-
-The most important observation is that while a few of these fishing apps boast impressive aggregate catch log totals, the catch log totals associated with regions of fisheries are usually small and insignificant to even somewhat experienced anglers.
-
 ## Methodology Overview
 
 - Adapted from Agile principles (https://agilemanifesto.org)
