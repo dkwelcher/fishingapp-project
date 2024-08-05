@@ -54,8 +54,17 @@ Fishing App is a web application that allows users to record their own fishing j
     - Domain Model
     - Repository
 
+General architecture of interfaces and classes using Spring Boot:
+
+- Controllers
+- Services
+- Mappers
+- DTOs
+- Entities
+- Repositories
+
 Broad example of Trip architecture:
 
-A client POST request arrives at the TripController. The JSON data is validated and sanitized, then processed into a TripDto. The TripDto is sent to the TripService where business logic is applied. The TripService uses the TripMapper to convert the TripDto to a TripEntity and sends the TripEntity to the TripRepository. The TripRepository interacts with the database to create the TripEntity in the database.
+A client POST request arrives at the TripController. The JSON data is validated & sanitized, then processed into a TripDto. The TripDto is sent to the TripService where business logic is applied. The TripService uses the TripMapper to convert the TripDto to a TripEntity & sends the TripEntity to the TripRepository. The TripRepository interacts with the database to create the TripEntity in the database.
 
-Security implementation includes Spring Security with JSON Web Tokens, and all passwords are salted and hashed in the database.
+Security implementation includes Spring Security with JSON Web Tokens, & all passwords are salted & hashed in the database.
