@@ -13,6 +13,7 @@ Fishing App is a web application that allows users to record their own fishing j
 <div float="left">
     <img src="screenshots/fa-managetrips-mobile.PNG" width="300"/>
     <img src="screenshots/fa-signup.PNG" width="300"/>
+    <img src="screenshots/fa-login.PNG" width="300" />
 </div>
 
 ## Objectives
