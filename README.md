@@ -4,8 +4,8 @@ Fishing App is a web application for maintaining a logbook of fishing catches an
 
 ## Source Code
 
-https://github.com/dkwelcher/fishingapp-server<br>
-https://github.com/dkwelcher/fishingapp-client
+Server: https://github.com/dkwelcher/fishingapp-server<br>
+Client: https://github.com/dkwelcher/fishingapp-client
 
 ## Screenshots
 
