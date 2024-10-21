@@ -1,6 +1,6 @@
 # Fishing App
 
-Fishing App is a web application for maintaining a logbook of fishing catches and planning future fishing trips. The app automatically generates time, geographic coordinates, weather data when a user adds a new catch. The Fishing Trip Planner feature is currently being worked on. This feature will combine the user's historical data and the forecasted weather of the date of the planned trip to providing recommendations for fishing locations and lure / bait strategies.
+Fishing App is a web application for maintaining a logbook of fishing catches and planning future fishing trips. The app automatically generates time, geographic coordinates, and weather data when a user adds a new catch. The Fishing Trip Planner feature is currently being worked on. This feature will combine the user's historical data and the forecasted weather of the date of the planned trip to provide recommendations for fishing locations and lure / bait strategies.
 
 ## Source Code
 
