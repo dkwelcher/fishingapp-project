@@ -36,3 +36,12 @@ https://github.com/dkwelcher/fishingapp-client
   - Docker
 - Tools
   - GitHub
+- Testing
+  - JUnit5, Cypress (soon)
+
+## Current To-Do List (Week of 10/21/2024)
+
+- Refactor React components (some components need to be broken down into smaller components)
+- Assess need for Redux / Context
+- Write Cypress tests for client source code
+- Write additional JUnit tests for server source code
